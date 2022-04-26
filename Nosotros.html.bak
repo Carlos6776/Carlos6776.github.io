@@ -1,0 +1,64 @@
+<html>
+	<head>
+		<title>OXXO-Nosotros</title>
+		<link rel="shortcut icon" href="logo.png">
+	</head>
+	<body bgcolor="#848484">
+		<img src=OXXO.png width="200" height="150">
+		<h1 align="center"><font color="black" size="5" face="arial">
+			Nuestra Historia 
+			</font>
+		</h1>
+		<hr>
+		
+		<br>
+		<br>
+		<center>
+		<li>
+			<b>
+				<font color="black" size="5" face="arial">
+					Historia 
+				</font>
+			</b>
+		</li>
+		</center>
+		<p align="left">
+			Formamos parte de FEMSA, empresa creada por mexicanos, cuyo origen se remonta a 1890. FEMSA es una empresa líder que participa en la industria de bebidas operando Coca-Cola FEMSA, el embotellador público más grande de productos Coca-Cola en el mundo; y en el sector cervecero como el segundo accionista más importante de Heineken, una de las cerveceras líderes en el mundo con presencia en más de 70 países.
+		</p>
+		<br>
+		<br>
+		<center>
+		<li>
+			<b>
+				<font color="black" size="5" face="arial">
+					Mision 
+				</font>
+			</b>
+		</li>
+		</center>
+		<p align="left">
+			Satisfacer en todo momento y con pasión las necesidades cotidianas del consumidor, simplificándole su vida, para que disfrute más su día.
+		</p>
+		<br>
+		<br>
+		<A href="principal.html">
+		<img src=Principal2.png width="200" height="100">
+		</A>
+		<br>
+		<font color="black" size="5" face="arial">
+			Principal
+		</font>
+		<br>
+		<p align="center">
+			<font color="black" size="1" face="arial">
+			<b>
+			&copy; 2022. Derechos Reservados <br>
+			Desarrollado por: Yoel Ivan Hernandez Arzate
+			Matricula:01905007
+			Grupo:605 <br>
+			Plantel Nueva Tijuana
+			</b>
+		</font>
+	</p>
+	</body>
+</html>

@@ -1,0 +1,283 @@
+<body{
+      background:#D30E0E;
+}
+h1{
+   Color: #FFE400;
+   font-family: Arial;
+   font-size: 50px;
+   text-align: center;
+}
+p{
+   Color: #FFE400;
+   font-family: Arial;
+   font-size: 10px;
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+}
+table{
+Color: #F7FF00;
+   font-family: Arial;
+   font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+   border: 2;
+   height: 90%;
+   width: 60%;
+   border-color:#78281F;
+   border-style: solid;
+   
+}
+tr{
+Color: #FFE400;
+   font-family: Arial;
+   font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+    border: 2;
+   height: 90%;
+   width: 60%;
+   border-color:#78281F;
+   border-style: solid;
+}
+th{
+Color: #FFE400;
+   font-family: Arial;
+   font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+    border: 2;
+   height: 90%;
+   width: 60%;
+   border-color:#78281F;
+   border-style: solid;
+   
+   }
+td{
+Color: #FFE400;
+   font-family: Arial;
+   font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+   font-style: italic;
+    border: 2;
+   height: 90%;
+   width: 60%;
+   border-color:#78281F;
+   border-style: solid;
+  }
+  .sin{
+   border-style: transparent;
+   border:0;
+   background-color: transparent;
+   
+}
+font{
+    color: #78281F;
+	font-family: Arial;
+    font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+.sen{
+    color: #78281F;
+	font-family: Arial;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+.sun{
+    color: #78281F;
+	font-family: Arial;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+.tam{
+ width: 150;
+ height: 90; 
+ position: relative;
+ right: 500px;
+ }
+.tam1{
+   height: 140;
+   width: 140;
+}
+.tam2{
+   width: 250;
+   height: 300;
+ }
+ /*encabezados*/
+ .divl{
+	    background: linear-gradient(to bottom, #FBFF00, #FF0C00);
+		border: 5px solid #FF0C00;
+		border-radius: 30px;
+		margin-top: 10px;
+		margin-right:10px;
+		margin-bottom:10px;
+		margin-left:10px;
+		width:90%;
+		height:20%;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+
+  }
+  /*lo marquee de la principal*/
+ .div2{
+	    background: #FF8000;
+		border: 0px solid #FFFFFF;
+		border-radius: 30px;
+		width:90%;
+		height:15%;
+		text-align: center;
+		margin-left: auto;
+}
+  /*botones que te redireccionan a las paginas*/
+.div3{
+	    background: #90211E;
+		border: 0px solid #F39C12;
+		border-radius: 0px;
+		margin-top: 0px;
+		margin-right:0px;
+		margin-bottom:10px;
+		margin-left:10px;
+		width:80%;
+		height:18%;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+}
+  /*los creditos de la parte inferior de las paginas*/
+.div4{
+        background: linear-gradient (to bottom, #90211E,#F39C12);
+		border: 0px solid #F39C12;
+		border-radius: 0px;
+		margin-top: 10px;
+		margin-right:10px;
+		margin-bottom:10px;
+		margin-left:10px;
+		width:20%;
+		height:4%;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+}
+    /*para los parrafos de la pagina historia*/
+.div5{
+	    background: #94340F;
+		border: 5px solid #F39C12;
+		text-align: center;
+		
+	/*para tabla de los productos*/
+	
+}
+.div6{
+	    background: #DC9415;
+		border: 5px solid #F39C12;
+		text-align: center;
+}
+	/*para tabla de contacto*/
+.div7{
+	    background: #DC9415;
+		border: 5px solid #F39C12;
+		text-align: center;
+}
+.div8{
+	    background: #DC9415;
+		border: 8px solid #F39C12;
+		text-align: center;
+}
+/*para colocar los divs en los productos de cada uno xd*/
+.caja{
+        height: 300px;
+		width:  250px;
+		background: white;
+		border: 1px solid white; 
+		margin: 5px;
+		color:black;
+		text-align:center;
+		font-family: arial;
+		display:inline-block;
+}
+
+.caja:hover{
+   /* Agregar sombra xd*/
+   /*           x y radio color*/
+   box-shadow:0 0 10px orange;
+   transform: scale(1.4);
+}
+/*texto*/
+.caja-texto{
+    padding-bottom:5px;
+	padding-top:2px;
+	font-size:20x;
+	color:red;
+	font-weight:bold;
+}
+.texto-adicional{
+    padding-top:5px;
+	font-size:25px;
+}
+@font-face{
+    font-family:"mifuente"
+	src: url(MorningRainbow.ttf);
+}
+#fuente-morning{
+    font-family:"mifuente";
+}
+.div9{
+	background: #78281F;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div9:hover{
+    width:900px;
+	
+}
+.div10{
+	background: #943126;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div10:hover{
+    width:900px;
+}
+.div11{
+	background: #F5B041;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div11:hover{
+    width:900px;
+}
+.div12{
+	background: #F39C12;
+	height: 180px;
+	width: 450px;
+	display:inline-block;
+	transition: all 1s;
+	transition-timing-function: ease;
+}
+.div12:hover{
+    width:900px;
+}
+
+.contenedor{
+    display:flex
+}
